@@ -1,5 +1,4 @@
-# AAROGYA
-*Online Ambulance Booking Service*
+# AAROGYA Online Ambulance Booking Service
 ### [GitHub Repository link](https://meharima.github.io/online_ambulance_booking_service/)
 
 
