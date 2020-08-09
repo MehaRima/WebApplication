@@ -48,8 +48,10 @@ This ambulance booking website is based on
 **But don't infringe ,that's an earnest request.**
 
 **Please note:This project prototype is developed and is created as a part of Final Year Project**
+
 *It is open for improvements and further developments.
-Make sure to consider connecting with the project by submitting a*
+
+Make sure to consider connecting with the project by submitting a* 
 #### pull request 
 ***
 
