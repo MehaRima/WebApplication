@@ -6,7 +6,7 @@ Updates on
 **[this repository](https://meharima.github.io/WebApplication/)**
  contains all the documents whose links are given below alongwith the zip file for easy downloading.
 
-
+[Steps to run this project](https://github.com/MehaRima/online_ambulance_booking_service/blob/master/Project_deployment_steps.md)
 ___________________________________________________________________________
 ![Aarogya ](https://github.com/MehaRima/online_ambulance_booking_service/blob/master/assets/images/logo.png)
 
