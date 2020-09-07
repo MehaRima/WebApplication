@@ -38,7 +38,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #fcfafa;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -59,7 +59,7 @@ header h1 {
 
 header h1:before {
   content: "./ ";
-  font-size: 24px;
+  font-size: 22px;
 }
 
 header h2 {
@@ -96,11 +96,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h1 {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 #main_content h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 #main_content h3 {
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: #999;
+  color: #fcfafa;
   margin: 0 0 5px 0;
 }
 
@@ -144,7 +144,7 @@ ul li:before {
 }
 
 blockquote {
-  color: #aaa;
+  color: #fcfafa;
   padding-left: 10px;
   border-left: 1px dotted #666;
 }
@@ -170,7 +170,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #fcfafa;
   padding: 5px 10px;
 }
 
@@ -181,8 +181,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed #fcfafa;
+  color: #fcfafa;
 }
 
 /* Buttons
