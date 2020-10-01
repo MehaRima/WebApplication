@@ -13,7 +13,7 @@ ___________________________________________________________________________
 # Online Ambulance Booking Service
 
 This ambulance booking website is based on 
-### Php,MySql for creating the back end *and* Html,Css as the front end part of the service required for university major web project
+### Php,MySql for creating the back end and Html,Css as the front end part of the service required for university major web project
 
 # Project Update: 21.04.2020 
 
@@ -54,4 +54,6 @@ This ambulance booking website is based on
 Make sure to consider connecting with the project by submitting a* 
 #### pull request 
 ***
+Thank for giving a look to my project.
+
 
