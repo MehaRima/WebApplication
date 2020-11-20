@@ -53,9 +53,10 @@ This ambulance booking website is based on
 
 *It is open for improvements and further developments.
 
-Make sure to consider connecting with the project by submitting a* 
-#### pull request 
+Make sure to consider connecting with the project by submitting 
+_a pull request_ 
+
 ***
-Thank for giving a look to my project.
+Thanks for giving a look to my project.
 
 
