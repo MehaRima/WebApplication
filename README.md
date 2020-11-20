@@ -1,7 +1,8 @@
 # AAROGYA Online Ambulance Booking Service
 ### [GitHub Repository link](https://meharima.github.io/online_ambulance_booking_service/)
 
-
+## Latest version release on 20-11-2020 
+**[aarogya_v0.2](https://github.com/MehaRima/online_ambulance_booking_service/releases/tag/aarogya_v0.2)
 Updates on 
 **[this repository](https://meharima.github.io/WebApplication/)**
  contains all the documents whose links are given below alongwith the zip file for easy downloading.
